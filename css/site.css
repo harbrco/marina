@@ -4280,6 +4280,8 @@ th {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap; }
+  .card-list:before, .card-list:after {
+    content: normal; }
 
 .card {
   padding: 0 6%; }

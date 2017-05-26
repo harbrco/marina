@@ -1,8 +1,12 @@
 .card-list {
    padding: 0;
-
    display: flex;
    flex-wrap: wrap;
+
+   &:before,
+   &:after {
+      content: normal;
+   }
 }
 
 .card {
