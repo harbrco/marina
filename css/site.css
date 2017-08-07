@@ -4353,18 +4353,11 @@ th {
   /* <- needed to hide flash of non vertical aligned content before complete page load. */ }
 
 .hasHoverFade .bg-img, .btn {
-  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
   -webkit-backface-visibility: hidden; }
 
 .noWrap {
   white-space: nowrap; }
-
-#mobile-menu-wrap #menu-icon .icon {
-  width: 100%;
-  height: 100%;
-  display: block;
-  cursor: pointer; }
 
 .hasOverlay .overlay, .hasHoverFade .bg-img, .hasHoverZoom .bg-img, .hasHoverZoomFade .bg-img {
   position: absolute;
@@ -4494,14 +4487,12 @@ th {
   .hasHoverZoom .bg-img {
     -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
             transform: matrix(1, 0, 0, 1, 0, 0);
-    -webkit-transition: -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98), -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98); }
   .hasHoverZoom:hover .bg-img {
     -webkit-transform: matrix(1.15, 0, 0, 1.15, 0, 0);
             transform: matrix(1.15, 0, 0, 1.15, 0, 0);
-    -webkit-transition: -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95), -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95); }
@@ -4513,7 +4504,6 @@ th {
   .hasHoverZoomFade .bg-img {
     -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
             transform: matrix(1, 0, 0, 1, 0, 0);
-    -webkit-transition: opacity 0.75s linear, -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: opacity 0.75s linear, -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: opacity 0.75s linear, transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: opacity 0.75s linear, transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98), -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98); }
@@ -4521,7 +4511,6 @@ th {
     opacity: 0.6;
     -webkit-transform: matrix(1.15, 0, 0, 1.15, 0, 0);
             transform: matrix(1.15, 0, 0, 1.15, 0, 0);
-    -webkit-transition: opacity 1.5s linear, -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: opacity 1.5s linear, -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: opacity 1.5s linear, transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: opacity 1.5s linear, transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95), -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95); }
@@ -4685,51 +4674,6 @@ input:focus {
   .footer-copyright a:hover {
     color: #eed31e; }
 
-.vAlign {
-  position: relative;
-  visibility: hidden;
-  /* <- needed to hide flash of non vertical aligned content before complete page load. */ }
-  .vAlign.vAlign-abs {
-    position: absolute;
-    visibility: hidden;
-    /* <- needed to hide flash of non vertical aligned content before complete page load. */ }
-
-#mobile-menu-wrap {
-  display: none; }
-  #mobile-menu-wrap #menu-icon {
-    background: transparent;
-    padding: 14px 0 0;
-    cursor: pointer;
-    display: block;
-    /* show menu icon */
-    text-align: center;
-    color: #444;
-    font-size: 20px;
-    font-weight: 400;
-    position: relative;
-    z-index: 98;
-    vertical-align: top;
-    color: #fff; }
-    #mobile-menu-wrap #menu-icon .icon {
-      background: url(../img/menu-icon.png) no-repeat;
-      background-size: 40px 160px;
-      width: 40px;
-      height: 40px;
-      display: inline-block;
-      margin: -2px 0 0 8px; }
-  #mobile-menu-wrap ul.menu {
-    padding-bottom: 12px; }
-
-@media only screen and (max-width: 800px) {
-  #desktop-menu-wrap {
-    display: none; }
-
-  #mobile-menu-wrap {
-    position: relative;
-    display: block; }
-
-  #mobile-menu {
-    display: none; } }
 @media print {
   * {
     background: transparent !important;
