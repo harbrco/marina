@@ -2,10 +2,14 @@
 .vAlign {
    position: relative;
    visibility: hidden; /* <- needed to hide flash of non vertical aligned content before complete page load. */
-}
-.vAlign-abs {
-   position: absolute;
-   visibility: hidden; /* <- needed to hide flash of non vertical aligned content before complete page load. */
+
+   &.vAlign-abs {
+      position: absolute;
+   }
+
+   &.isVisible {
+      visibility: visible;
+   }
 }
 
 

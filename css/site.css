@@ -215,7 +215,8 @@ figure {
  * Address differences between Firefox and other browsers.
  */
 hr {
-  box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
   height: 0; }
 
 /**
@@ -321,7 +322,8 @@ input {
  */
 input[type="checkbox"],
 input[type="radio"] {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   /* 1 */
   padding: 0;
   /* 2 */ }
@@ -343,6 +345,7 @@ input[type="number"]::-webkit-outer-spin-button {
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
+  -webkit-box-sizing: content-box;
   /* 2 */
   box-sizing: content-box; }
 
@@ -4332,6 +4335,7 @@ th {
   margin-bottom: 0; }
 
 .bx-wrapper .bx-viewport {
+  -webkit-box-shadow: none;
   box-shadow: none;
   border: none;
   left: 0;
@@ -4346,13 +4350,13 @@ th {
   position: relative;
   visibility: hidden;
   /* <- needed to hide flash of non vertical aligned content before complete page load. */ }
-
-.vAlign-abs {
-  position: absolute;
-  visibility: hidden;
-  /* <- needed to hide flash of non vertical aligned content before complete page load. */ }
+  .vAlign.vAlign-abs {
+    position: absolute; }
+  .vAlign.isVisible {
+    visibility: visible; }
 
 .hasHoverFade .bg-img, .btn {
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
   -webkit-backface-visibility: hidden; }
 
@@ -4487,12 +4491,14 @@ th {
   .hasHoverZoom .bg-img {
     -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
             transform: matrix(1, 0, 0, 1, 0, 0);
+    -webkit-transition: -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98), -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98); }
   .hasHoverZoom:hover .bg-img {
     -webkit-transform: matrix(1.15, 0, 0, 1.15, 0, 0);
             transform: matrix(1.15, 0, 0, 1.15, 0, 0);
+    -webkit-transition: -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95), -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95); }
@@ -4504,6 +4510,7 @@ th {
   .hasHoverZoomFade .bg-img {
     -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
             transform: matrix(1, 0, 0, 1, 0, 0);
+    -webkit-transition: opacity 0.75s linear, -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: opacity 0.75s linear, -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: opacity 0.75s linear, transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98);
     transition: opacity 0.75s linear, transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98), -webkit-transform 750ms cubic-bezier(0.255, 0.285, 0.42, 0.98); }
@@ -4511,6 +4518,7 @@ th {
     opacity: 0.6;
     -webkit-transform: matrix(1.15, 0, 0, 1.15, 0, 0);
             transform: matrix(1.15, 0, 0, 1.15, 0, 0);
+    -webkit-transition: opacity 1.5s linear, -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: opacity 1.5s linear, -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: opacity 1.5s linear, transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95);
     transition: opacity 1.5s linear, transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95), -webkit-transform 6000ms cubic-bezier(0.235, 0.07, 0.67, 0.95); }
@@ -4528,7 +4536,8 @@ th {
     clear: both; }
 
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility; }
 
@@ -4557,7 +4566,7 @@ img {
 a {
   color: #4ca2d6;
   text-decoration: none;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 a:focus {
   outline: 0; }
@@ -4639,16 +4648,20 @@ input:focus {
   .btn.btn--ghost {
     color: #000;
     background-color: transparent;
-    box-shadow: inset 0px 0px 0px 2px #000; }
+    -webkit-box-shadow: inset 0px 0px 0px 2px #000;
+            box-shadow: inset 0px 0px 0px 2px #000; }
     .btn.btn--ghost.btn--primary {
       color: #4ca2d6;
-      box-shadow: inset 0px 0px 0px 2px #4ca2d6; }
+      -webkit-box-shadow: inset 0px 0px 0px 2px #4ca2d6;
+              box-shadow: inset 0px 0px 0px 2px #4ca2d6; }
     .btn.btn--ghost.btn--secondary {
       color: #eed31e;
-      box-shadow: inset 0px 0px 0px 2px #eed31e; }
+      -webkit-box-shadow: inset 0px 0px 0px 2px #eed31e;
+              box-shadow: inset 0px 0px 0px 2px #eed31e; }
     .btn.btn--ghost.btn--tertiary {
       color: #f926a2;
-      box-shadow: inset 0px 0px 0px 2px #f926a2; }
+      -webkit-box-shadow: inset 0px 0px 0px 2px #f926a2;
+              box-shadow: inset 0px 0px 0px 2px #f926a2; }
     .btn.btn--ghost:hover {
       color: #fff;
       background-color: #000; }
@@ -4678,7 +4691,8 @@ input:focus {
   * {
     background: transparent !important;
     color: #000 !important;
-    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
     text-shadow: none !important; }
 
   a,
