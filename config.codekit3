@@ -7,177 +7,206 @@
 		"uuidString": "F5411D1A-12A8-472D-BC23-519AF1A7040C"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26148",
 "files": {
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/404.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/404.php",
 		"oF": 0
 		},
 	"\/archive.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/archive.php",
 		"oF": 0
 		},
 	"\/author.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/author.php",
 		"oF": 0
 		},
 	"\/category.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/category.php",
 		"oF": 0
 		},
 	"\/comments.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/comments.php",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/18a7203ddf81bccfee0232544107494a3652c12e\/_buttons.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/18a7203ddf81bccfee0232544107494a3652c12e\/_buttons.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/18a7203ddf81bccfee0232544107494a3652c12e\/_forms.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/18a7203ddf81bccfee0232544107494a3652c12e\/_forms.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/67b5b4964bfb9e4ae0b26c832baac790b3851334\/_clearfix.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/67b5b4964bfb9e4ae0b26c832baac790b3851334\/_clearfix.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/67b5b4964bfb9e4ae0b26c832baac790b3851334\/_helpers.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/67b5b4964bfb9e4ae0b26c832baac790b3851334\/_helpers.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/67b5b4964bfb9e4ae0b26c832baac790b3851334\/_misc.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/67b5b4964bfb9e4ae0b26c832baac790b3851334\/_misc.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/67b5b4964bfb9e4ae0b26c832baac790b3851334\/_selection.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/67b5b4964bfb9e4ae0b26c832baac790b3851334\/_selection.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/69781d90b0a05e6219b9a2d6763fca360d5f9b6e\/_footer.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/69781d90b0a05e6219b9a2d6763fca360d5f9b6e\/_footer.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/69781d90b0a05e6219b9a2d6763fca360d5f9b6e\/_header.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/69781d90b0a05e6219b9a2d6763fca360d5f9b6e\/_header.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/69781d90b0a05e6219b9a2d6763fca360d5f9b6e\/_menu.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/69781d90b0a05e6219b9a2d6763fca360d5f9b6e\/_menu.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/69781d90b0a05e6219b9a2d6763fca360d5f9b6e\/_sidebar.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/69781d90b0a05e6219b9a2d6763fca360d5f9b6e\/_sidebar.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/74dc418c2987b8fa2311e95f3992f9ef38b71541\/_blog.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/74dc418c2987b8fa2311e95f3992f9ef38b71541\/_blog.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/74dc418c2987b8fa2311e95f3992f9ef38b71541\/_common.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/74dc418c2987b8fa2311e95f3992f9ef38b71541\/_common.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_breakpoints.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_breakpoints.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_defaults.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_defaults.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_print.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_print.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_retina-images.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_retina-images.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_vars.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/98f2f0c32070b95b7c7e4f05d048fc2cf4a0a0c1\/_vars.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/ad67bbd82aa6bff963856b92e40915cc22846529\/site.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/css\/.sass-cache\/ad67bbd82aa6bff963856b92e40915cc22846529\/site.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/c71422ff70b3e959c2a9737295ab4a18521b35d2\/normalize.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/css\/.sass-cache\/c71422ff70b3e959c2a9737295ab4a18521b35d2\/normalize.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/ded82b2da8226c9dd679a62bdacf3f1b28764c41\/_cards.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/ded82b2da8226c9dd679a62bdacf3f1b28764c41\/_cards.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/ded82b2da8226c9dd679a62bdacf3f1b28764c41\/_flexbox.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/ded82b2da8226c9dd679a62bdacf3f1b28764c41\/_flexbox.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/ded82b2da8226c9dd679a62bdacf3f1b28764c41\/_grid.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/ded82b2da8226c9dd679a62bdacf3f1b28764c41\/_grid.scssc",
 		"oF": 0
 		},
 	"\/css\/.sass-cache\/ded82b2da8226c9dd679a62bdacf3f1b28764c41\/_layout.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/css\/.sass-cache\/ded82b2da8226c9dd679a62bdacf3f1b28764c41\/_layout.scssc",
@@ -552,6 +581,7 @@
 		"oS": 0
 		},
 	"\/css\/site.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/css\/site.css.map",
@@ -571,30 +601,35 @@
 		"uL": 0
 		},
 	"\/fonts\/readme.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/readme.txt",
 		"oF": 0
 		},
 	"\/footer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/footer.php",
 		"oF": 0
 		},
 	"\/functions.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/functions.php",
 		"oF": 0
 		},
 	"\/header.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/header.php",
 		"oF": 0
 		},
 	"\/img\/icons\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/img\/icons\/favicon.ico",
@@ -612,6 +647,7 @@
 		"q": 100
 		},
 	"\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.php",
@@ -728,6 +764,7 @@
 		"tS": 0
 		},
 	"\/js\/scripts-min.js.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/js\/scripts-min.js.map",
@@ -784,132 +821,154 @@
 		"tS": 0
 		},
 	"\/languages\/de_DE.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/de_DE.mo",
 		"oF": 0
 		},
 	"\/languages\/de_DE.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/de_DE.po",
 		"oF": 0
 		},
 	"\/languages\/es_ES.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/es_ES.mo",
 		"oF": 0
 		},
 	"\/languages\/es_ES.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/es_ES.po",
 		"oF": 0
 		},
 	"\/languages\/fr_FR.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/fr_FR.mo",
 		"oF": 0
 		},
 	"\/languages\/fr_FR.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/fr_FR.po",
 		"oF": 0
 		},
 	"\/languages\/HTML5Blank.pot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/HTML5Blank.pot",
 		"oF": 0
 		},
 	"\/languages\/it_IT.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/it_IT.mo",
 		"oF": 0
 		},
 	"\/languages\/it_IT.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/it_IT.po",
 		"oF": 0
 		},
 	"\/languages\/nl_NL.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/nl_NL.mo",
 		"oF": 0
 		},
 	"\/languages\/nl_NL.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/nl_NL.po",
 		"oF": 0
 		},
 	"\/languages\/pt_BR.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/pt_BR.mo",
 		"oF": 0
 		},
 	"\/languages\/pt_BR.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/pt_BR.po",
 		"oF": 0
 		},
 	"\/languages\/ro_RO.mo": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/ro_RO.mo",
 		"oF": 0
 		},
 	"\/languages\/ro_RO.po": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/languages\/ro_RO.po",
 		"oF": 0
 		},
 	"\/loop.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/loop.php",
 		"oF": 0
 		},
 	"\/page-home.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/page-home.php",
 		"oF": 0
 		},
 	"\/page.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/page.php",
 		"oF": 0
 		},
 	"\/pagination.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/pagination.php",
 		"oF": 0
 		},
 	"\/partials\/partial-about-us.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/partials\/partial-about-us.php",
 		"oF": 0
 		},
 	"\/partials\/partial-contact.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/partials\/partial-contact.php",
 		"oF": 0
 		},
 	"\/patterns.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/patterns.html",
@@ -927,24 +986,28 @@
 		"q": 100
 		},
 	"\/search.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/search.php",
 		"oF": 0
 		},
 	"\/searchform.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/searchform.php",
 		"oF": 0
 		},
 	"\/sidebar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sidebar.php",
 		"oF": 0
 		},
 	"\/single.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/single.php",
@@ -961,12 +1024,14 @@
 		"oS": 0
 		},
 	"\/tag.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/tag.php",
 		"oF": 0
 		},
 	"\/template-demo.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/template-demo.php",
@@ -1517,6 +1582,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -1581,9 +1650,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -1613,6 +1682,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -1622,14 +1695,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2733,7 +2798,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -2766,6 +2832,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -2807,7 +2874,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -2839,13 +2907,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -2854,7 +2922,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -2874,7 +2943,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -2902,7 +2972,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
