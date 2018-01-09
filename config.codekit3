@@ -417,35 +417,6 @@
 		"oS": 0,
 		"uL": 0
 		},
-	"\/css\/libs\/images\/bx_loader.gif": {
-		"ft": 4194304,
-		"iS": 8581,
-		"oA": 0,
-		"oAP": "\/css\/libs\/images\/bx_loader.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/css\/libs\/images\/controls.png": {
-		"ft": 32768,
-		"iS": 2806,
-		"oA": 0,
-		"oAP": "\/css\/libs\/images\/controls.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/css\/libs\/jquery.bxslider.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/css\/libs\/jquery.bxslider-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/css\/libs\/normalize.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -683,16 +654,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/libs\/jquery.bxslider.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/libs\/jquery.bxslider.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/js\/libs\/jquery.easing.min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -776,46 +737,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/scripts-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/scripts\/ajax.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/scripts\/ajax-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/scripts\/global.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/scripts\/global-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/scripts\/init.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/scripts\/init-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/scripts\/interactive.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/scripts\/interactive-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
