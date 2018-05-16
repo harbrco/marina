@@ -7,7 +7,7 @@
 		"uuidString": "F5411D1A-12A8-472D-BC23-519AF1A7040C"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -895,17 +895,6 @@
 		"oAP": "\/patterns.html",
 		"oF": 0
 		},
-	"\/screenshot.png": {
-		"ft": 32768,
-		"iS": 12590,
-		"oA": 0,
-		"oAP": "\/screenshot.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/search.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -967,7 +956,8 @@
 	"creationDate": 505338956,
 	"displayValue": "HarbrMarina",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-lotr"
+	"iconImageName": "meme-lotr",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -975,6 +965,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -1538,6 +1529,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -2765,6 +2760,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
